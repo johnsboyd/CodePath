@@ -17,7 +17,7 @@ Completed user stories:
  
 Notes:
 
-Spent some time making the UI work across multiple phone resolutions by playing around with the RelativeLayout.
+The application is setup to run on the iPhone 5 / iOS 8.1 as suggested in the video.
 
 Walkthrough of all user stories:
 
