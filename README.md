@@ -1,6 +1,6 @@
 # Tip Calculator prework assignment
 
-This is an iOS Swift Application for calculating 18%, 20%, and 22% tips for a given bill amount.  The demo is based on the step-by-step video setup of the basic application [Tip Calculator in Swift](http://vimeo.com/102084767) which then includes a navigation bar, Setting ViewController, and Lifecycle functionality along with several optional tasks.
+This is an iOS Swift Application for calculating 18%, 20%, and 22% tips for a given bill amount.  The demo is based on the step-by-step video setup of the basic application [Tip Calculator in Swift](http://vimeo.com/102084767) which is then augmented with a navigation bar, Setting ViewController, and Lifecycle functionality along with several optional tasks.
 
 Time spent: 6 hours spent in total
 
