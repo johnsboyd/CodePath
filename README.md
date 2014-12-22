@@ -29,6 +29,6 @@ $ git clone https://github.com/johnsboyd/CodePath.git
 
 Walkthrough of all user stories:
 
-![Video Walkthrough](Tipsy.gif)
+![Video Walkthrough](Tipsy1.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
