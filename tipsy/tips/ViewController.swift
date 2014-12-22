@@ -102,9 +102,9 @@ class ViewController: UIViewController {
         var storedIndex = defaults.integerForKey("stored_seg_index")
         var storedColorIndex = defaults.integerForKey("stored_color_index")
         tipControl.selectedSegmentIndex = storedIndex
-        var tipPercentage = 0.2
+        var tipPercentage = 0.0
         if (storedPercent > 0.0) {
-            var tipPercentage = storedPercent
+            tipPercentage = storedPercent!
         }
         var storedBillAmount = defaults.objectForKey("stored_bill_amount") as? Double
         var billAmount = 0.0
